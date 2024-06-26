@@ -1,3 +1,30 @@
 This is about sana Example test branch,
 
 please check in the loop which toughly resending mails from one to another
+
+is there any updates on this!!!!!!!!!!!!!!s
+
+Contact Sheets Issued
+
+Issued contact sheets related to Anuda Madam, Babu Sir, Sravya, and Jayanthi, connected to Madhu Sir's sheet.
+Company Data Issued
+
+Issued company data related to Chandrakant Sir's sheet.
+Non-Profit CRM Reports
+
+Worked on regular reports related to non-profit CRM applications.
+May Month Donation Sheet
+
+Completed the May month donation sheet and uploaded it in Salesforce.
+Salesforce Updates
+
+Deployed the changes updated in Salesforce related to new applications.
+Code Coverage Maintenance
+
+Maintained the code coverage of all organizations; this is an ongoing process.
+Daily Mail Reminders
+
+Added daily mail reminders related to HR and Babu Sir.
+Email Templates
+
+Added the email template related to handbook policies.
